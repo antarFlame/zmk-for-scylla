@@ -1,7 +1,7 @@
 if SHIELD_SCYLLA_LEFT
 
     config ZMK_KEYBOARD_NAME
-        default "Scylla"
+        default "Scylla_antar"
 
     config ZMK_SPLIT_BLE_ROLE_CENTRAL
         default y
